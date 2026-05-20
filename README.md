@@ -16,3 +16,6 @@ Total Sales, Orders, Profit
 
 🔍 Result
 I found insights about sales performance using charts.
+
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
