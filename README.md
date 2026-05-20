@@ -17,5 +17,15 @@ Total Sales, Orders, Profit
 🔍 Result
 I found insights about sales performance using charts.
 
+## 📈 Key KPIs
+- Total Sales
+- Total Orders
+- Total Profit
+
+## 🔍 Insights
+- Sales are highest in top-performing region
+- Category-wise analysis shows strongest segment
+- Sales trend shows monthly variation
+
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
