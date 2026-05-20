@@ -1,6 +1,8 @@
 Sales Data Analysis Dashboard (Excel)
 
-This project analyzes retail sales data to generate business insights using Excel dashboards.
+🎯 Objective
+
+Built an Excel-based sales dashboard to analyze business performance and identify key revenue trends across regions, categories, and time periods.
 
 🎯 What I did
 I analyzed sales data using Excel and made a dashboard.
@@ -25,9 +27,10 @@ I found insights about sales performance using charts.
 - Total Profit
 
 ## 🔍 Insights
-- Sales are highest in top-performing region
-- Category-wise analysis shows strongest segment
-- Sales trend shows monthly variation
+📊 Key Insights
+-West region contributes the highest sales share (~38%)
+-Technology category is the top revenue generator
+-Sales show peak during year-end months
 
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
