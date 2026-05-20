@@ -1,5 +1,7 @@
 Sales Data Analysis Dashboard (Excel)
 
+This project demonstrates data analysis and business intelligence using Excel.
+
 🎯 Objective
 
 Built an Excel-based sales dashboard to analyze business performance and identify key revenue trends across regions, categories, and time periods.
