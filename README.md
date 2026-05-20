@@ -1,5 +1,7 @@
 Sales Data Analysis Dashboard (Excel)
 
+This project analyzes retail sales data to generate business insights using Excel dashboards.
+
 🎯 What I did
 I analyzed sales data using Excel and made a dashboard.
 
